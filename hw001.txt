@@ -2,3 +2,5 @@ HOMEWORK
 .txt and commit
 
 Change and commit
+
+This is a file copied from project folder to test folder
